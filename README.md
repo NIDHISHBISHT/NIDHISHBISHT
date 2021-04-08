@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nidhishbisht&label=Profile%20views&color=0e75b6&style=flat" alt="nidhishbisht" /> </p>
 
-<p >&nbsp;<img align="center" textcolor="000" src="https://github-readme-stats.vercel.app/api?username=nidhishbisht&show_icons=true&locale=en" alt="nidhishbisht" /></p>
+<p >&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=nidhishbisht&show_icons=true&locale=en color=0e75b6&style=flat" alt="nidhishbisht" /></p>
 - 📫 How to reach me **bishtnidhish10@gmail.com**
 - 
 
